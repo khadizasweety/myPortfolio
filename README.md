@@ -37,15 +37,13 @@ To successfully utilize this project first of all you need to clone or download 
 
 ## Authors
 
-👤 Eyasu Teshome
+👤 Khadiza Sweety
 
-- GitHub: [@EyasuTeshome](https://github.com/EyasuTeshome)
-- Twitter: [@EyasuTeshome](https://twitter.com/EyasuTeshome)
-- LinkedIn: [Eyasu Teshome](https://linkedin.com/in/EyasuTeshome)
+- GitHub: [@khadizasweety](https://github.com/khadizasweety)
+- LinkedIn: [khadizasweety](https://linkedin.com/in/khadizasweety)
 
 ## Contributors
-👤 Faustin Makutano
-👤 Mehria-Rahmani
+👤 Eyasu Teshome
 
 
 ## 🤝 Contributing
